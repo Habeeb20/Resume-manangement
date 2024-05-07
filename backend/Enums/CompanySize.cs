@@ -1,7 +1,10 @@
 namespace backend.Enums
 {
-    public enum Company
+    public enum CompanySize
     {
+       Small,
+       Medium,
+       Large 
         
     }
 }
