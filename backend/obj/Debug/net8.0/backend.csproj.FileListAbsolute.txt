@@ -74,3 +74,8 @@ C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\obj\Debug\net8.0\refi
 C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Waliyu Habeeb\Desktop\fullstack c#\Resume\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll

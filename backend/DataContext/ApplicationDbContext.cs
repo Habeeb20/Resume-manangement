@@ -19,12 +19,12 @@ namespace backend.DataContext
         public DbSet<Candidate> Candidates {get; set;}
 
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder) 
         {
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Job>()
-                .HasOne(job => job.company)
+                .HasOne(job => job.Company)
                 .WithMany(company => company.Jobs)
                 .HasForeignKey(job => job.CompanyId);
 
